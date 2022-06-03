@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophie 
 - 👀 I’m interested in learning how to build apps and websites.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning Python and Javascript.
 - 💞️ I’m looking to collaborate on websites with designers eventually.
 - 📫 How to reach me ... Message!
 
